@@ -1,0 +1,44 @@
+body {
+  background-color: #e9db9a;
+}
+.navbar-light .navbar-nav .nav-link {
+  color: #444;
+}
+
+.navbar-light .navbar-nav .nav-link:hover {
+  color: #d1b54a;
+}
+
+.navbar-light .navbar-toggler-icon {
+  background-image: url('data:image/svg+xml;charset=UTF-8,%3csvg viewBox="0 0 30 30" xmlns="http://www.w3.org/2000/svg"%3e%3cpath stroke="%23d1b54a" stroke-width="3" stroke-linecap="round" stroke-miterlimit="10" d="M4 7h22M4 15h22M4 23h22"/%3e%3c/svg%3e');
+}
+
+.navbar-light .navbar-toggler {
+  border-color: #d1b54a;
+}
+
+.dropdown-menu {
+  background-color: #d1b54a;
+}
+
+.dropdown-item {
+  color: #444;
+}
+
+.dropdown-item:hover {
+  background-color: #e6c867;
+  color: #ffffff;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  color: #444;
+}
+
+p {
+  color: #666;
+}
+
+footer {
+  background-color: #e0e0e0;
+  color: #444;
+}
